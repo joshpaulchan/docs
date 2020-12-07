@@ -102,7 +102,6 @@ When Drone executes your build, by default, it executes all pipelines and all st
     event:
     - push
     - pull_request
-  
   ---
   kind: pipeline
   type: docker
